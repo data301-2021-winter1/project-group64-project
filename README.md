@@ -9,7 +9,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+{Our theme is adult income. Our data comes from UCI Machine Learning company. This is a dataset updated five years ago. It mainly contains data for Adult Census Income, including Predict whether income exceeds $50K/yr based on census data. Our main purpose is to learn more in the future. During the analysis of this project, we will definitely search a lot of information, and we will learn more or less some financial or political knowledge. And in the end, it can also solve some of the problems we want to know, which will be very attractive to us. Our main source of data is the Internet, and there will be some free datasets on the Internet that can be copied at will. We will filter these data in more detail, and finally use the useful data to make a dashboard.![image](https://user-images.githubusercontent.com/77290527/136481015-a61b45ea-8b43-4f29-8718-145c6454d302.png)
+}
 
 ## Describe your dataset in about 150-200 words
 
